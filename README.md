@@ -23,7 +23,7 @@ change to:
 
 ### Get the source code and build
 
-    git clone git@github.com:mojocorp/mzl350i-pi-ext.git
+    git clone git://github.com/mojocorp/mzl350i-pi-ext.git
     cd mzl350i-pi-ext/src
     make
 
